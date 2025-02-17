@@ -16,5 +16,3 @@ This is a simple Flask web application that implements user registration, login,
 ## Technologies Used
 - Python 3.x
 - Flask
-- SQLite for the database
-- HTML/CSS for the front end
